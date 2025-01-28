@@ -33,7 +33,7 @@ ELIZA is a Python-based virtual therapist that engages users in text-based conve
    ```
 3. Run the script:
    ```bash
-   python eliza.py
+   python DOCTOR_script.py
    ```
 
 4. Start chatting with ELIZA!
